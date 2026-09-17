@@ -23,6 +23,12 @@
       "name": "sahithi",
       "email": "sahithipalusa2007@gmail.com",
       "password": "$2b$10$ofqnmJexR96C9JATBv8LHOT84uA3Qh8FGMkNbcdFjpYpoYo7iQGNi"
+    },
+    {
+      "_id": "1789652480924",
+      "name": "varshini",
+      "email": "a.varshini23@gmail.com",
+      "password": "$2b$10$/GbXi3uigWbKk5EEf0vA0uciXMZ6HS9cDyb4zWGxZxtgDRjE7jTlS"
     }
   ],
   "items": [
@@ -101,6 +107,19 @@
       "user": "1783727696158",
       "createdAt": "2026-07-11T00:41:10.651Z",
       "updatedAt": "2026-07-11T00:41:10.651Z"
+    },
+    {
+      "_id": "1789652576605",
+      "title": "Wallet",
+      "description": "I have lost my black color wallet which has my aadhar card and cash",
+      "category": "Other",
+      "location": "uppal x road",
+      "date": "2026-09-17",
+      "image": "",
+      "status": "Lost",
+      "user": "1789652480924",
+      "createdAt": "2026-09-17T13:42:56.606Z",
+      "updatedAt": "2026-09-17T13:42:56.606Z"
     }
   ],
   "claims": [
